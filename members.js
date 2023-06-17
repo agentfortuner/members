@@ -9,6 +9,7 @@ export const members = [
         },
         "photo" : "https://avatars.githubusercontent.com/u/56161089?v=4",
         "shortIntro" : "Hey I am Yash, a student at Indian Institute of Technology Madras. Currently, I am in freshman year of B.S. Data Science and Applications.",
+        "position" : "Technical Head"
     },
     {
         "name" : "null",
@@ -20,5 +21,6 @@ export const members = [
         },
         "photo" : "null",
         "shortIntro" : "null",
+        "position" : "Technical Head"
     },
 ]
