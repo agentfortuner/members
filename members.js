@@ -23,6 +23,6 @@ export const members = [
         },
         "photo" : "null",
         "shortIntro" : "null",
-        "position" : "Technical Head"
+        "position" : "null"
     },
 ]
