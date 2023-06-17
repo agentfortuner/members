@@ -15,6 +15,7 @@ A sample is given below
             "github" : "null",
             "linkedin" : "null",
             "instagram" : "null",
+            "personal-website" : "null",
         },
         "photo" : "null",
         "shortIntro" : "null",
