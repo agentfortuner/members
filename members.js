@@ -25,7 +25,19 @@ export const members = [
         "shortIntro" : "I am an Engineering Student , FrontEnd Developer and Open Source Contributer SSOC' 23 ",
         "position" : "Technical Executive"
     },
-    
+    {
+        "name": "Krishnan Lakshmi Narayana कृष्णन लक्ष्मी नारायणन",
+        "email": "22f3002565@ds.study.iitm.ac.in",
+        "links" : {
+            "github": "https://github.com/agentfortuner",
+            "linkedin": "https://www.linkedin.com/in/kln12",
+            "instagram": "https://www.instagram.com/agentfortuner_cc1/",
+            "personal-website": "null",
+        },
+        "photo" : "https://drive.google.com/drive/u/0/my-drive",
+        "shortIntro" : "Hey I am Keshava, a student at Indian Institute of Technology Madras. Currently, I am in freshman year of B.S. Data Science and Applications.",
+        "position" : "Public Relations Head"
+    },
     {
         "name" : "null",
         "email" : "null",
@@ -40,16 +52,4 @@ export const members = [
         "position" : "null"
     },
 ]
-{
-    "name": "Krishnan Lakshmi Narayana कृष्णन लक्ष्मी नारायणन",
-    "email": "22f3002565@ds.study.iitm.ac.in",
-    "links" : {
-        "github": "https://github.com/agentfortuner",
-        "linkedin": "https://www.linkedin.com/in/kln12",
-        "instagram": "https://www.instagram.com/agentfortuner_cc1/",
-        "personal-website": "null",
-    },
-    "photo" : "https://drive.google.com/drive/u/0/my-drive",
-    "shortIntro" : "Hey I am Keshava, a student at Indian Institute of Technology Madras. Currently, I am in freshman year of B.S. Data Science and Applications.",
-    "position" : "Public Relations Head"
-},
+
