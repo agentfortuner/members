@@ -18,6 +18,7 @@ A sample is given below
         },
         "photo" : "null",
         "shortIntro" : "null",
+        "position" : "null",
     }
 ```
 
